@@ -1,0 +1,9 @@
+{
+  "token": "my_bitly_token",
+  "host": "api-ssl.bitly.com",
+  "groups_url": "https://api-ssl.bitly.com/v4/groups",
+  "shorten_url": "https://api-ssl.bitly.com/v4/shorten",
+  "auth": "Bearer",
+  "accept": "application/json",
+  "content_type": "application/json"
+}

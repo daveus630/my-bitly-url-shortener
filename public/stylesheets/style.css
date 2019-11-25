@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: white;
+  background-color:#31708f;
+  border-radius: 15px;
+}
+
+.short-url {
+  font-size: 24px;
+  font: "Helvetica";
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
